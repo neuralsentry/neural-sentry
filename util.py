@@ -31,7 +31,7 @@ def export_commit_to_csv(commit: Commit, destination: str):
                 "message": commit.message,
                 "sha": commit.hexsha,
                 "remote_url": commit.repo.remotes.origin.url,
-                "label": "",
+                # "label": "",
             }
         ]
     )
