@@ -94,7 +94,7 @@ def add_commit_to_csv(
         "sha": commit.hexsha,
         "remote_url": commit.repo.remotes.origin.url,
         "date": commit.authored_datetime,
-        "labels": "",
+        "labels": -1,
     }
 
     if include_files:
@@ -143,7 +143,7 @@ def add_commits_to_csv(
                 "sha": commit.hexsha,
                 "remote_url": commit.repo.remotes.origin.url,
                 "date": commit.authored_datetime,
-                "labels": "",
+                "labels": -1,
             }
 
             if include_files:
