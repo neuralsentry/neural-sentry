@@ -10,6 +10,18 @@ This markdown will evaluate the following models:
 
 The architecture, dataset, and training approaches of each model are compared.
 
+## Criterias
+
+- Trained on C/C++
+- Trained on Natural Language
+  - Prefably also with Git commits
+- Architecture
+  - Encoder (preferred)
+  - Decoder
+- Learning Objective
+  - Either Masked Language Modelling (MLM) or Casual Language Modelling (CLM)
+  - Both can be fine-tuned for text classification
+
 ## StarEncoder
 
 - [Blog](https://huggingface.co/blog/starcoder)
