@@ -1,0 +1,8 @@
+MASK_TOKEN = "<mask>"
+SEPARATOR_TOKEN = "<sep>"
+PAD_TOKEN = "<pad>"
+CLS_TOKEN = "<cls>"
+COMMIT_BEFORE = "<commit_before>"
+COMMIT_MSG = "<commit_msg>"
+COMMIT_AFTER = "<commit_after>"
+CODE_SEPARATOR = "<code_separator>"
