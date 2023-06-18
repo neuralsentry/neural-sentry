@@ -1,5 +1,13 @@
-rich[jupyter]
+transformers[sentencepiece]
+transformers[torch]
+accelerate
+tqdm
+datasets
+evaluate
+scipy
+scikit-learn
 gitpython
 chromadb
 pandas
-tqdm
+--index-url https://download.pytorch.org/whl/cu117
+torch
