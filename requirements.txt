@@ -1,5 +1,4 @@
-transformers[sentencepiece]
-transformers[torch]
+transformers
 accelerate
 tqdm
 datasets
