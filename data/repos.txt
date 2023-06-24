@@ -3,3 +3,8 @@ https://github.com/openssl/openssl
 https://github.com/apache/httpd
 https://github.com/imagemagick/imagemagick
 https://github.com/postgres/postgres
+https://github.com/samba-team/samba
+https://github.com/ffmpeg/ffmpeg
+https://github.com/redis/redis
+https://github.com/openldap/openldap
+https://github.com/git/git
